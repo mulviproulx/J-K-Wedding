@@ -1,3 +1,9 @@
 # J-K-Wedding
 
-I am a readme file
+## Header example
+
+Come to our wedding!
+
+## Link example
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
