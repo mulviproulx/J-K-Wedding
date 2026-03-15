@@ -1,13 +1,22 @@
-# J-K-Wedding
+# The wedding of James Proulx and Kristina Mulvihill
 
-## Header example
+## Basic information
 
-Come to our wedding!
+*Note, this website is still under construction*
 
-## Link example
+### Date and Time
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+The wedding will be **March 20th, 2027**
+Exact time TBD
 
-## Photo example
+### Location
 
-![Photo example](./pexels-jonaskakaroto-736230.jpg)
+[Fremont Abbey Arts Center](https://maps.app.goo.gl/CXq6KW6TQJCfWsEdA)
+4272 Fremont Ave N, Seattle, WA 98103
+
+### Important notes
+
+- I reccomend trying to find somewhere to stay north of Seattle, not in the downtown area to save on cost. Hotels can be expensive. Keep an eye on prices and book early!
+- This wedding will be strictly **child-free**
+- Food and alcohol will be provided
+- **Please, no gifts!**
