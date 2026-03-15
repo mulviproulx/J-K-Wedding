@@ -1,4 +1,4 @@
-# The wedding of James Proulx and Kristina Mulvihill
+# The wedding of Kristina Mulvihill and James Proulx 
 
 ![Fremont Abbey Arts Center](freemont_abbey.png)
 
@@ -30,6 +30,8 @@ We are *not doing a registry or gifts.* If you absolutely must, consider donatin
 
 ## Seattle
 
+![Seattle](Seattle_Center_as_night_falls.jpg)
+
 ### Public transit
 
 Seattle has an [expansive light rail system](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations), which could enable you to take a bus/uber from the nearest light rail stop to the venue
@@ -46,3 +48,8 @@ Public transit is by far the cheapest way to get around Seattle. If you can't or
 - Seattle has the [*most expensive uber rides in the country.*](https://www.kiro7.com/news/local/seattle-has-most-expensive-uber-rides-us-study-finds/JTNS5URATBFSLAH4K7ADS4MNBQ/). Consider the price of renting a car if you intend on making multiple journeys/seeing the sights in Seattle.
 
 ### Things to do
+
+Seattle is one of the most beautiful and unique cities in the country. You will have no shortage of interesting things to do and see if you have some spare time in the city. Consider:
+
+#### Pike Place Market
+
