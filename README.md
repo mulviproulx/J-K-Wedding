@@ -1,5 +1,7 @@
 # The wedding of James Proulx and Kristina Mulvihill
 
+![Fremont Abbey Arts Center](freemont_abbey.png)
+
 ## Basic information
 
 *Note, this website is still under construction*
@@ -16,7 +18,7 @@ Exact time TBD
 
 ### Important notes
 
-- I reccomend trying to find somewhere to stay north of Seattle, not in the downtown area to save on cost. Hotels can be expensive. Keep an eye on prices and book early!
+- I recommend trying to find somewhere to stay north of Seattle, not in the downtown area to save on cost. Hotels can be expensive. Keep an eye on prices and book early!
 - This wedding will be strictly **child-free**
 - Food and alcohol will be provided
 - **Please, no gifts!**
