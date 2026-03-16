@@ -3,9 +3,7 @@ title: Wedding Information
 robots: noindex
 ---
 
-# The wedding of Kristina Mulvihill and James Proulx 
-
-![Fremont Abbey Arts Center](freemont_abbey.png)
+# The wedding of Kristina and James 
 
 ## Basic information
 
@@ -18,8 +16,7 @@ Exact time TBD
 
 ### Location
 
-[Fremont Abbey Arts Center](https://maps.app.goo.gl/CXq6KW6TQJCfWsEdA)
-4272 Fremont Ave N, Seattle, WA 98103
+Refer to your formal invite or contact James/Kristina for the exact location, but the wedding will be located in the Fremont neighborhood of Seattle, WA.
 
 ### Important notes
 
@@ -41,7 +38,6 @@ We are *not doing a registry or gifts.* If you absolutely must, consider donatin
 
 Seattle has an [expansive light rail system](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations), which could enable you to take a bus/uber from the nearest light rail stop to the venue
 - The northernmost light rail stop (and therefore the area with the cheapest accomodations) is [Lynwood City Center](https://maps.app.goo.gl/voEkHjbgeUsDMSWV8)
-- [Public transit from the nearest light rail stop to the venue](https://maps.app.goo.gl/jpMVnL2ef9pfePPY7)
 - The light rail **stops running around midnight, be aware of this when planning your trip home**
 - *You could save a lot of money by staying further up in somewhere like Lynwood and taking the transit as opposed to staying right near the venue!*
 - Refer to the [Sound transit website](https://www.soundtransit.org/) for up to date information.
