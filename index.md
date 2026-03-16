@@ -1,3 +1,8 @@
+---
+title: My Page
+robots: noindex
+---
+
 # The wedding of Kristina Mulvihill and James Proulx 
 
 ![Fremont Abbey Arts Center](freemont_abbey.png)
