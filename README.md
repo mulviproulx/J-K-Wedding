@@ -1,8 +1,3 @@
----
-layout: default
-title: Wedding Information
----
-
 # The wedding of Kristina Mulvihill and James Proulx 
 
 ![Fremont Abbey Arts Center](freemont_abbey.png)
