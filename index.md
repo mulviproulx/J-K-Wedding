@@ -1,5 +1,5 @@
 ---
-title: My Page
+title: Wedding Information
 robots: noindex
 ---
 
