@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="robots" content="noindex, nofollow">
   <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
   <title>My Page</title>
 </head>
 <body>
-  <!-- Render your README -->
+  <div id="content">Loading...</div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
   <script>
-    window.location = "README.md";
+    fetch("README.md")
+      .then(response => response.text())
+      .then(markdown => {
+        document.getElementById("content").innerHTML = marked.parse(markdown);
+      });
   </script>
 </body>
 </html>
