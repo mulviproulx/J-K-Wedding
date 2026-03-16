@@ -1,32 +1,55 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-<meta name="robots" content="noindex, nofollow">
-<title>{{ page.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
+  <title>{{ page.title }}</title>
 
-<style>
-.markdown-body {
-  box-sizing: border-box;
-  max-width: 980px;
-  margin: 40px auto;
-  padding: 0 16px;
-}
+  <!-- GitHub Markdown CSS -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 
-.markdown-body img {
-  max-width: 100%;
-  height: auto;
-}
-</style>
+  <!-- GitHub Syntax Highlighting -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
 
+  <style>
+    /* GitHub font + colors */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+                   sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      background-color: #fff;
+      color: #24292f;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* GitHub-style layout */
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+    }
+
+    /* GitHub-style responsive images */
+    .markdown-body img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
 </head>
 
 <body>
-<article class="markdown-body">
-{{ content }}
-</article>
-</body>
+  <article class="markdown-body">
+    {{ content }}
+  </article>
 
+  <!-- Optional: highlight.js for code block auto-highlighting -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script>hljs.highlightAll();</script>
+</body>
 </html>
