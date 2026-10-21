@@ -81,6 +81,11 @@ We are *not doing a registry or gifts.* If you absolutely must, please consider 
 ![Seattle](Seattle_Center_as_night_falls.jpg)
 
 ---
+
+### Weather
+
+Expect classic early-spring Seattle: highs in the low 50s, lows in the upper 30s, and rain on roughly half the days in March. Late March trends a little warmer and drier than early March, but pack a layer and something waterproof just in case
+
 ### Housing
 
 We’ve decided not to book a specific hotel block to allow everyone the flexibility to find a space that best fits their needs. However, we are currently scouting a few great, affordable options near the venue and will share those recommendations soon!
