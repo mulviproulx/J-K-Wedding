@@ -23,6 +23,10 @@ Exact time TBD
 Refer to your formal invite or contact James/Kristina for the exact location, but the wedding will be located in the Fremont neighborhood of Seattle, WA.
 This information will be posted here near the wedding date. For now, refer to your RSVP/invitation
 
+### Parking
+
+Parking in the Fremont area can be _rough_. There is not one centralized large parking lot you can count on, you should leave early if you intend on finding street parking in the area, as you may wind up wandering a bit. Consider uber or carpooling with other guests.
+
 ---
 ### Important notes
 
@@ -94,9 +98,9 @@ One of the reasons we chose a March wedding was to help our guests avoid peak-se
 ### Public transit
 
 Seattle has an [expansive light rail system](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations), which could enable you to take a bus/uber from the nearest light rail stop to the venue
-- The northernmost light rail stop (and therefore the area with the cheapest accomodations) is [Lynwood City Center](https://maps.app.goo.gl/voEkHjbgeUsDMSWV8)
+- The northernmost light rail stop (and therefore the area with the cheapest accomodations) is [Lynnwood City Center](https://maps.app.goo.gl/voEkHjbgeUsDMSWV8)
 - The light rail **stops running around midnight, be aware of this when planning your trip home**
-- *You could save a lot of money by staying further up in somewhere like Lynwood and taking the transit as opposed to staying right near the venue!*
+- *You could save a lot of money by staying further up in somewhere like Lynnwood and taking the transit as opposed to staying right near the venue!*
 - Refer to the [Sound transit website](https://www.soundtransit.org/) for up to date information.
 
 ---
