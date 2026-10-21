@@ -47,8 +47,11 @@ We are *not doing a registry or gifts.* If you absolutely must, please consider 
 - https://www.marysplaceseattle.org/
 
 ---
+
 ### What To Wear
-#### Wear something that makes you feel **awesome**.
+
+<details markdown="1">
+<summary>Wear something that makes you feel <strong>awesome</strong> — click to expand</summary>
 
 **You:** Okay, fine… but what’s the theme? Should I follow a color palette or a specific aesthetic?
 
@@ -75,6 +78,8 @@ We are *not doing a registry or gifts.* If you absolutely must, please consider 
 3. The Intentionality Test: It’s still a wedding. You don’t need to dress like you are meeting royalty (unless you want to), but you shouldn’t look like you just hit the gym either. While a crisp Hawaiian shirt is great, a T-shirt or bikini isn't the move.
    
 #### **Bottom Line:** This is a moment for YOU to shine. Don’t second-guess yourself—I just want you to express yourself and feel **AWESOME!**
+
+</details>
 
 ## Seattle
 
