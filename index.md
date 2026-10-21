@@ -21,20 +21,26 @@ Exact time TBD
 ### Location
 
 Refer to your formal invite or contact James/Kristina for the exact location, but the wedding will be located in the Fremont neighborhood of Seattle, WA.
+This information will be posted here near the wedding date. For now, refer to your RSVP/invitation
 
 ---
 ### Important notes
 
 - RSVP/Formal invites coming soon!
-- This wedding will be strictly **child-free** but plus-ones are ok!
+- This wedding will be strictly **child-free** but plus-ones are ok! Just include that in your RSVP
 - Keep an eye on rental/booking prices and book early! (see below for more housing info)
 - Food and alcohol will be provided
+
+### Set up/tear down
+
+If, and _only if_ you would _like_ to help us set up or tear down, please include that information in your RSVP form. I'd suggest choosing one or the other, doing both would be a long day.
 
 ---
 ### Gifts
 
 We are *not doing a registry or gifts.* If you absolutely must, please consider donating to one of these charities on our behalf:
-- _*This information will be added later*_
+
+- https://www.marysplaceseattle.org/
 
 ---
 ### What To Wear
@@ -99,6 +105,7 @@ Seattle has an [expansive light rail system](https://www.soundtransit.org/ride-w
 Public transit is by far the cheapest way to get around Seattle. If you can't or won't take public transit, consider uber/lyft or renting a car.
 
 - Seattle has the [*most expensive uber rides in the country.*](https://www.kiro7.com/news/local/seattle-has-most-expensive-uber-rides-us-study-finds/JTNS5URATBFSLAH4K7ADS4MNBQ/). Consider the price of renting a car if you intend on making multiple journeys/seeing the sights in Seattle.
+- Hot tip for renting a car: The airport is going to charge you extra, potentially up to double what other car rental places in town would charge you. Consider taking the subway to another car rental location, and renting from there.
 
 ---
 ### Things to do
@@ -111,7 +118,6 @@ Seattle is one of the most beautiful and unique cities in the country. You will 
 ##### [Chihuly Garden and Glass Museum](https://www.chihulygardenandglass.com/)
 ##### [Bezos' Balls](https://www.seattlespheres.com/) _(First and third Saturday of each month, 10am-6pm only)_
 
-##### [Capital Hill Neighborhood](https://secretseattle.co/things-to-do-capitol-hill-seattle/)
 ##### [UW Arboretum](https://botanicgardens.uw.edu/washington-park-arboretum/)
 ##### [Volunteer Park](https://www.seattle.gov/parks/parks/volunteer-park)
 
