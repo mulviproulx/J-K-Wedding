@@ -30,7 +30,7 @@ Parking in the Fremont area can be _rough_. There is not one centralized large p
 ---
 ### Important notes
 
-- RSVP/Formal invites coming soon!
+- RSVP is open: [fill out the RSVP form](https://docs.google.com/forms/d/12IW_6vMGz5m3Wq83gappqN6Lj7CnTZmj9fibYsZkZhA/viewform) — formal invites coming soon!
 - This wedding will be strictly **child-free** but plus-ones are ok! Just include that in your RSVP
 - Keep an eye on rental/booking prices and book early! (see below for more housing info)
 - Food and alcohol will be provided
